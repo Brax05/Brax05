@@ -160,14 +160,6 @@ Plataforma de viajes con optimización lógica de rutas usando Prolog + interfaz
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brax05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brax05&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-
 
 ---
 
