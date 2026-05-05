@@ -4,11 +4,7 @@
 
 </div>
 
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Apasionado+por+los+LLMs+y+la+IA+aplicada;Fine-tuning+%7C+RAG+%7C+LLMOps;Construyo+asistentes+con+IA+local;Always+learning%2C+always+building...)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
